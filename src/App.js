@@ -53,7 +53,7 @@ function App() {
               />
           )}
         </div>
-        <button className='load-more' onClick={()=>getAllPokemons()}>Load More Polemons...</button>
+        <button className='load-more' onClick={()=>getAllPokemons()}>Load More Pokemons...</button>
       </div>
     </div>
   );
